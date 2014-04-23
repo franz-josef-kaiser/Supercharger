@@ -34,7 +34,7 @@
 			"type": "package",
 			"package": {
 				"name": "regenerate-thumbnails",
-				"version": "*",
+				"version": "@dev",
 				"source": {
 					"url": "https://github.com/Viper007Bond/regenerate-thumbnails",
 					"type": "git"
