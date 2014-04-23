@@ -31,26 +31,12 @@
 	},
 	"repositories": [
 		{
-			"type": "package",
-			"package": {
-				"name": "regenerate-thumbnails",
-				"version": "@dev",
-				"source": {
-					"url": "https://github.com/Viper007Bond/regenerate-thumbnails",
-					"type": "git"
-				}
-			}
+			"type": "vcs",
+			"url": "https://github.com/Viper007Bond/regenerate-thumbnails"
 		},
 		{
-			"type": "package",
-			"package": {
-				"name": "current-admin-info",
-				"version": "*",
-				"source": {
-					"url": "https://github.com/franz-josef-kaiser/current-admin-info.git",
-					"type": "git"
-				}
-			}
+			"type": "vcs",
+			"url": "https://github.com/franz-josef-kaiser/current-admin-info.git"
 		}
 	]
 }
