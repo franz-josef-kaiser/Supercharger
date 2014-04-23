@@ -13,3 +13,6 @@
 [submodule "plugins/fragment-cache"]
 	path = plugins/fragment-cache
 	url = https://github.com/Rarst/fragment-cache.git
+[submodule "plugins/laps"]
+	path = plugins/laps
+	url = https://bitbucket.org/Rarst/laps

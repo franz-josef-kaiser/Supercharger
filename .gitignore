@@ -20,3 +20,4 @@ plugins/regenerate-thumbnails
 plugins/dynamic-image-resize
 plugins/current-admin-info
 plugins/fragment-cache
+plugins/laps
