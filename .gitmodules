@@ -1,15 +1,15 @@
 [submodule "plugins/wcm-lang-switch"]
 	path = plugins/wcm-lang-switch
 	url = https://github.com/wecodemore/wcm_lang_switch.git
+[submodule "plugins/regenerate-thumbnails"]
+	path = plugins/regenerate-thumbnails
+	url = https://github.com/Viper007Bond/regenerate-thumbnails
 [submodule "plugins/dynamic-image-resize"]
 	path = plugins/dynamic-image-resize
 	url = https://github.com/franz-josef-kaiser/Dynamic-Image-Resize.git
 [submodule "plugins/current-admin-info"]
 	path = plugins/current-admin-info
 	url = https://github.com/franz-josef-kaiser/current-admin-info.git
-[submodule "plugins/regenerate-thumbnails"]
-	path = plugins/regenerate-thumbnails
-	url = https://github.com/Viper007Bond/regenerate-thumbnails.git
 [submodule "plugins/fragment-cache"]
 	path = plugins/fragment-cache
 	url = https://github.com/Rarst/fragment-cache.git

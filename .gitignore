@@ -1,4 +1,22 @@
-.sass-cache
-node_modules
-uploads
+## IDEs ##
+# PHPStorm
 .idea
+
+## Task Runners ##
+# SASS
+.sass-cache
+
+## Package Managers ##
+# Node.js/NPM
+node_modules
+
+## WordPress ##
+# File Uploads dir
+uploads
+
+# Plugins already added as submodules
+plugins/wcm-lang-switch
+plugins/regenerate-thumbnails
+plugins/dynamic-image-resize
+plugins/current-admin-info
+plugins/fragment-cache
