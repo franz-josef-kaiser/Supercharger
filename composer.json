@@ -41,7 +41,7 @@
 				"name": "wcm/wcm-lang-switch",
 				"version": "@dev",
 				"dist": {
-					"url": "https://github.com/wecodemore/wcm-lang-switch/archive/master.zip",
+					"url": "https://github.com/wecodemore/wcm_lang_switch/archive/master.zip",
 					"type": "zip"
 				}
 			}
@@ -63,7 +63,7 @@
 				"name": "dynamic-image-resize",
 				"version": "@dev",
 				"dist": {
-					"url": "https://github.com/franz-josef-kaiser/dynamic-image-resize/archive/master.zip",
+					"url": "https://github.com/franz-josef-kaiser/Dynamic-Image-Resize/archive/master.zip",
 					"type": "git"
 				}
 			}
