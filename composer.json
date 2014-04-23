@@ -23,7 +23,14 @@
 	"minimum-stability": "stable",
 	"prefer-stable": true,
 	"target-dir": "plugins",
-	"require": {},
+	"require": {
+		"wcm/wcm-lang-switch": "@dev",
+		"regenerate-thumbnails": "@dev",
+		"dynamic-image-resize": "@dev",
+		"rarst/fragment-cache": "@dev",
+		"rarst/laps": "@dev",
+		"current-admin-info": "@dev"
+	},
 	"repositories": [
 		{
 			"packagist" : false
