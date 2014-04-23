@@ -83,7 +83,7 @@
 			"type": "package",
 			"package": {
 				"name": "Rarst/laps",
-				"version": "*",
+				"version": "@dev",
 				"dist": {
 					"url": "https://bitbucket.org/Rarst/laps/get/ca5335d9b06d.zip",
 					"type": "git"
