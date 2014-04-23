@@ -9,6 +9,7 @@
 ## Package Managers ##
 # Node.js/NPM
 node_modules
+plugins
 
 ## WordPress ##
 # File Uploads dir

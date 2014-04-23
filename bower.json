@@ -1,0 +1,28 @@
+{
+	"name": "Chassis-Supercharger",
+	"version": "0.1.0",
+	"homepage": "https://github.com/franz-josef-kaiser/Supercharger",
+	"authors": [
+		"Kaiser Franz Josef <wecodemore@gmail.com>"
+	],
+	"description": "Supercharger for Chassis Vagrant build",
+	"keywords": [
+		"Vagrant"
+	],
+	"license": "MIT",
+	"private": true,
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"test",
+		"tests"
+	],
+	"dependencies" : {
+		"Dynamic-Image-Resize" : "git@github.com:franz-josef-kaiser/Dynamic-Image-Resize.git",
+		"wcm_lang_switch" : "git@github.com:wecodemore/wcm_lang_switch.git",
+		"regenerate-thumbnails" : "git@github.com:Viper007Bond/regenerate-thumbnails.git",
+		"current-admin-info" : "git@github.com:franz-josef-kaiser/current-admin-info.git",
+		"fragment-cache" : "git@github.com:Rarst/fragment-cache.git",
+		"laps" : "https://bitbucket.org/Rarst/laps"
+	}
+}
