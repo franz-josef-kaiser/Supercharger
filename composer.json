@@ -27,8 +27,8 @@
 		"wcm/wcm-lang-switch": "@dev",
 		"regenerate-thumbnails": "@dev",
 		"dynamic-image-resize": "@dev",
-		"rarst/fragment-cache": "@dev",
-		"rarst/laps": "@dev",
+		"Rarst/fragment-cache": "@dev",
+		"Rarst/laps": "@dev",
 		"current-admin-info": "@dev"
 	},
 	"repositories": [
@@ -71,8 +71,8 @@
 		{
 			"type": "package",
 			"package": {
-				"name": "fragment-cache",
-				"version": "*",
+				"name": "Rarst/fragment-cache",
+				"version": "@dev",
 				"dist": {
 					"url": "https://github.com/Rarst/fragment-cache/archive/master.zip",
 					"type": "git"
@@ -82,7 +82,7 @@
 		{
 			"type": "package",
 			"package": {
-				"name": "laps",
+				"name": "Rarst/laps",
 				"version": "*",
 				"dist": {
 					"url": "https://bitbucket.org/Rarst/laps/get/ca5335d9b06d.zip",
