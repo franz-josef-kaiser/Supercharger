@@ -14,10 +14,3 @@ node_modules
 # File Uploads dir
 uploads
 
-# Plugins already added as submodules
-plugins/wcm-lang-switch
-plugins/regenerate-thumbnails
-plugins/dynamic-image-resize
-plugins/current-admin-info
-plugins/fragment-cache
-plugins/laps
