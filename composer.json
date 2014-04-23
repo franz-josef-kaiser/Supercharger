@@ -36,6 +36,10 @@
 			"package": {
 				"name": "regenerate-thumbnails",
 				"version": "@dev",
+				"dist": {
+					"url": "https://github.com/Viper007Bond/regenerate-thumbnails/archive/master.zip",
+					"type": "zip"
+				},
 				"source": {
 					"url": "https://github.com/Viper007Bond/regenerate-thumbnails",
 					"type": "git"
@@ -44,7 +48,6 @@
 		},
 		{
 			"type": "package",
-			"url": "https://github.com/franz-josef-kaiser/current-admin-info.git",
 			"package": {
 				"name": "current-admin-info",
 				"version": "*",
