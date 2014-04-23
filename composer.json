@@ -52,8 +52,8 @@
 				"name": "regenerate-thumbnails",
 				"version": "@dev",
 				"dist": {
-					"url": "https://github.com/Viper007Bond/regenerate-thumbnails/archive/master.zip",
-					"type": "zip"
+					"url": "https://github.com/Viper007Bond/regenerate-thumbnails.git",
+					"type": "git"
 				}
 			}
 		},
