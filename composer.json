@@ -74,7 +74,7 @@
 				"name": "fragment-cache",
 				"version": "@dev",
 				"dist": {
-					"url": "https://github.com/rarst/fragment-cache/archive/master.zip",
+					"url": "https://github.com/Rarst/fragment-cache/archive/master.zip",
 					"type": "git"
 				}
 			}
@@ -85,7 +85,7 @@
 				"name": "laps",
 				"version": "@dev",
 				"dist": {
-					"url": "https://github.com/rarst/laps/archive/master.zip",
+					"url": "https://bitbucket.org/Rarst/laps/get/ca5335d9b06d.zip",
 					"type": "git"
 				}
 			}
