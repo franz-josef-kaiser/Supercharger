@@ -48,9 +48,9 @@
 			"type": "package",
 			"package": {
 				"name": "current-admin-info",
-				"version": "*",
-				"source": {
-					"url": "https://github.com/franz-josef-kaiser/current-admin-info.git",
+				"version": "@dev",
+				"dist": {
+					"url": "https://github.com/franz-josef-kaiser/current-admin-info/archive/master.zip",
 					"type": "git"
 				}
 			}
