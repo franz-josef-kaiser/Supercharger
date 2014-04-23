@@ -31,18 +31,16 @@
 	},
 	"repositories": [
 		{
+			"packagist" : false
+		},
+		{
 			"type": "package",
-			"url": "https://github.com/Viper007Bond/regenerate-thumbnails",
 			"package": {
 				"name": "regenerate-thumbnails",
 				"version": "@dev",
 				"dist": {
 					"url": "https://github.com/Viper007Bond/regenerate-thumbnails/archive/master.zip",
 					"type": "zip"
-				},
-				"source": {
-					"url": "https://github.com/Viper007Bond/regenerate-thumbnails",
-					"type": "git"
 				}
 			}
 		},
