@@ -23,15 +23,21 @@
 	"minimum-stability": "stable",
 	"prefer-stable": true,
 	"target-dir": "plugins",
-	"require": {
-		"wcm/wcm-lang-switch": "*",
-		"wcm/dynamic-image-resize": "*",
-		"rarst/fragment-cache": "*",
-		"rarst/laps": "*"
-	},
+	"require": {},
 	"repositories": [
 		{
 			"packagist" : false
+		},
+		{
+			"type": "package",
+			"package": {
+				"name": "wcm/wcm-lang-switch",
+				"version": "@dev",
+				"dist": {
+					"url": "https://github.com/wecodemore/wcm-lang-switch/archive/master.zip",
+					"type": "zip"
+				}
+			}
 		},
 		{
 			"type": "package",
@@ -41,6 +47,39 @@
 				"dist": {
 					"url": "https://github.com/Viper007Bond/regenerate-thumbnails/archive/master.zip",
 					"type": "zip"
+				}
+			}
+		},
+		{
+			"type": "package",
+			"package": {
+				"name": "dynamic-image-resize",
+				"version": "@dev",
+				"dist": {
+					"url": "https://github.com/franz-josef-kaiser/dynamic-image-resize/archive/master.zip",
+					"type": "git"
+				}
+			}
+		},
+		{
+			"type": "package",
+			"package": {
+				"name": "fragment-cache",
+				"version": "@dev",
+				"dist": {
+					"url": "https://github.com/rarst/fragment-cache/archive/master.zip",
+					"type": "git"
+				}
+			}
+		},
+		{
+			"type": "package",
+			"package": {
+				"name": "laps",
+				"version": "@dev",
+				"dist": {
+					"url": "https://github.com/rarst/laps/archive/master.zip",
+					"type": "git"
 				}
 			}
 		},
