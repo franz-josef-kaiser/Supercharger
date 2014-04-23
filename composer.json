@@ -1,0 +1,54 @@
+{
+	"name": "wcm/chassis-supercharger",
+	"description": "Supercharger for Chassis WordPress Vagrant box",
+	"version": "0.1.0",
+	"type": "library",
+	"keywords": [
+		"WordPress",
+		"Vagrant",
+		"Puppet",
+		"wp-content"
+	],
+	"homepage": "http://github.com/franz-josef-kaiser/Supercharger",
+	"time": "2013-04-23",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Franz Josef Kaiser",
+			"email": "wecodemore@gmail.com",
+			"homepage": "http://unserkaiser.com",
+			"role": "Developer"
+		}
+	],
+	"minimum-stability": "stable",
+	"prefer-stable": true,
+	"target-dir": "plugins",
+	"require": {
+		"wcm/wcm-lang-switch": "*",
+		"wcm/dynamic-image-resize": "*",
+		"rarst/fragment-cache": "*",
+		"rarst/laps": "*"
+	},
+	"repositories": [
+		{
+			"type": "package",
+			"package": {
+				"name": "regenerate-thumbnails",
+				"source": {
+					"url": "https://github.com/Viper007Bond/regenerate-thumbnails.git",
+					"type": "git"
+				}
+			}
+		},
+		{
+			"type": "package",
+			"package": {
+				"name": "current-admin-info",
+				"source": {
+					"url": "https://github.com/franz-josef-kaiser/current-admin-info.git",
+					"type": "git"
+				}
+			}
+		}
+	]
+}
