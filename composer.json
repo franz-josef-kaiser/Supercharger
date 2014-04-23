@@ -34,6 +34,7 @@
 			"type": "package",
 			"package": {
 				"name": "regenerate-thumbnails",
+				"version": "*",
 				"source": {
 					"url": "https://github.com/Viper007Bond/regenerate-thumbnails.git",
 					"type": "git"
@@ -44,6 +45,7 @@
 			"type": "package",
 			"package": {
 				"name": "current-admin-info",
+				"version": "*",
 				"source": {
 					"url": "https://github.com/franz-josef-kaiser/current-admin-info.git",
 					"type": "git"
